@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
     printf("Hello, World!\n");
 
 #if defined(__STDC_VERSION__)
